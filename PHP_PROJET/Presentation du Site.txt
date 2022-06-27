@@ -1,0 +1,21 @@
+
+Presentation du site 
+
+
+ X-Transfert CASH est un application Web qui nous permet d'effectuer des transferts d'argents en ligne et aussi des retraits.
+
+
+
+-Accueil : On trouve labas des sliders pour le site
+
+-Retrait : c'est là ou on peut effectuer des retraits en donnant seulment le code fournit par l'émmeteur sur le champs input en plus on clike sur envoyer pour recevoir
+ les informations du transfer ( Emmeteur, date du transfert, le code de retrait, les frais et le montant du transfert).
+
+-Transfert : C'est ici qu'on effectue les envoies en remplissant le formulaire donné. ATTENTION ! le code donné lors de l'envoie sera le même code que le recpeteur doit entrer lors 
+du retrait.
+S'inscrire : On peut s'incricre aussi pour avoir un compte.
+
+-Se connecter : on peut aussi se connecter en respectant les informations données lors de l'inscription ( Adresse Email et Mot de pase) et ce n'est pas le cas vous ne pouvez pas vous connecter.
+
+Y'a aussi -HISTORIQUE qui se trouve sur le dopdown du menu : Cette page nous permet de voir la liste des transferts effectués.
+Et enfin Footer sur chaque page: y'a toutes nos informations làbas (Contact, Adresse,Tel...)
